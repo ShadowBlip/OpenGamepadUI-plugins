@@ -1,0 +1,18 @@
+{
+  "steam": {
+    "plugin.id": "steam",
+    "plugin.name": "Steam",
+    "plugin.version": "1.0.0",
+    "plugin.min-api-version": "1.0.0",
+    "plugin.link": "https://github.com/ShadowBlip/OpenGamepadUI-steam",
+    "plugin.source": "https://github.com/ShadowBlip/OpenGamepadUI-steam",
+    "plugin.summary": "Steam library for OpenGamepadUI",
+    "plugin.description": "Steam library implementation for OpenGamepadUI. Log in to your steam account with 'steamctl' and your Steam library will be imported. Requires: steamctl, vdf2json",
+    "store.tags": ["steam", "library"],
+    "store.images": ["https://github.com/ShadowBlip/OpenGamepadUI-steam/raw/main/docs/screen01.png"],
+    "author.name": "William Edwards",
+    "author.email": "shadowapex@gmail.com",
+    "archive.url": "https://github.com/ShadowBlip/OpenGamepadUI-steam/releases/download/v1.0.0/steam.zip",
+    "archive.sha256": "4b49a5615b14fcaaa13cb7b22ace13960a66967f81372fa22567d4474928c5ab"
+  }
+}
