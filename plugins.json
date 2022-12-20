@@ -7,12 +7,32 @@
     "plugin.link": "https://github.com/ShadowBlip/OpenGamepadUI-steam",
     "plugin.source": "https://github.com/ShadowBlip/OpenGamepadUI-steam",
     "plugin.summary": "Steam library for OpenGamepadUI",
-    "plugin.description": "Steam library implementation for OpenGamepadUI. Log in to your steam account with 'steamctl' and your Steam library will be imported. Requires: steamctl, vdf2json",
-    "store.tags": ["steam", "library"],
-    "store.images": ["https://github.com/ShadowBlip/OpenGamepadUI-steam/raw/main/docs/screen01.png"],
+    "plugin.description": "Steam library implementation for OpenGamepadUI",
+    "store.tags": ["steam", "library", "boxart"],
+    "store.images": [
+      "https://github.com/ShadowBlip/OpenGamepadUI-steam/raw/main/docs/screen01.png"
+    ],
     "author.name": "William Edwards",
     "author.email": "shadowapex@gmail.com",
     "archive.url": "https://github.com/ShadowBlip/OpenGamepadUI-steam/releases/download/v1.0.0/steam.zip",
     "archive.sha256": "8f15297bc0aa7fc713bc10b59ff030feb9a9cea28c2aeac5dbfd835bbc583332"
+  },
+  "flathub": {
+    "plugin.id": "flathub",
+    "plugin.name": "FlatHub",
+    "plugin.version": "1.0.0",
+    "plugin.min-api-version": "1.0.0",
+    "plugin.link": "https://github.com/ShadowBlip/OpenGamepadUI-flathub",
+    "plugin.source": "https://github.com/ShadowBlip/OpenGamepadUI-flathub",
+    "plugin.summary": "FlatHub store & library for OpenGamepadUI",
+    "plugin.description": "FlatHub store & library implementation for OpenGamepadUI",
+    "store.tags": ["flathub", "library", "store"],
+    "store.images": [
+      "https://github.com/ShadowBlip/OpenGamepadUI-flathub/raw/main/docs/screen01.png"
+    ],
+    "author.name": "William Edwards",
+    "author.email": "shadowapex@gmail.com",
+    "archive.url": "https://github.com/ShadowBlip/OpenGamepadUI-flathub/releases/download/v1.0.0/flathub.zip",
+    "archive.sha256": "e1420269a5ed3685cb06565a5a4595561dd604b9ae18adbfbe148fd6dab3f8e4"
   }
 }
