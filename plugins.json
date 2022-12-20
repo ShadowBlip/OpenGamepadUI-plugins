@@ -10,7 +10,7 @@
     "plugin.description": "Steam library implementation for OpenGamepadUI",
     "store.tags": ["steam", "library", "boxart"],
     "store.images": [
-      "https://github.com/ShadowBlip/OpenGamepadUI-steam/raw/main/docs/screen01.png"
+      "https://raw.githubusercontent.com/ShadowBlip/OpenGamepadUI-steam/main/docs/screen01.png"
     ],
     "author.name": "William Edwards",
     "author.email": "shadowapex@gmail.com",
@@ -28,7 +28,7 @@
     "plugin.description": "FlatHub store & library implementation for OpenGamepadUI",
     "store.tags": ["flathub", "library", "store"],
     "store.images": [
-      "https://github.com/ShadowBlip/OpenGamepadUI-flathub/raw/main/docs/screen01.png"
+      "https://raw.githubusercontent.com/ShadowBlip/OpenGamepadUI-flathub/main/docs/screen01.png"
     ],
     "author.name": "William Edwards",
     "author.email": "shadowapex@gmail.com",
