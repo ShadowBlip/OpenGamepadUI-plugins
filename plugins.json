@@ -34,5 +34,23 @@
     "author.email": "shadowapex@gmail.com",
     "archive.url": "https://github.com/ShadowBlip/OpenGamepadUI-flathub/releases/download/v1.0.0/flathub.zip",
     "archive.sha256": "e1420269a5ed3685cb06565a5a4595561dd604b9ae18adbfbe148fd6dab3f8e4"
+  },
+  "steamgriddb": {
+    "plugin.id": "steamgriddb",
+    "plugin.name": "SteamGridDB",
+    "plugin.version": "1.0.0",
+    "plugin.min-api-version": "1.0.0",
+    "plugin.link": "https://github.com/ShadowBlip/OpenGamepadUI-steamgriddb",
+    "plugin.source": "https://github.com/ShadowBlip/OpenGamepadUI-steamgriddb",
+    "plugin.summary": "SteamGridDB boxart provider",
+    "plugin.description": "SteamGridDB boxart provider implementation for OpenGamepadUI",
+    "store.tags": ["boxart"],
+    "store.images": [
+      "https://raw.githubusercontent.com/ShadowBlip/OpenGamepadUI-steamgriddb/main/docs/screen01.png"
+    ],
+    "author.name": "William Edwards",
+    "author.email": "shadowapex@gmail.com",
+    "archive.url": "https://github.com/ShadowBlip/OpenGamepadUI-steamgriddb/releases/download/v1.0.0/steamgriddb.zip",
+    "archive.sha256": "99949cdde0614350e55812f48f435c4ac91812ad713d18f30065d21fe41c709a"
   }
 }
