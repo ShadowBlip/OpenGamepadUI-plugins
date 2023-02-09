@@ -14,8 +14,8 @@
     ],
     "author.name": "William Edwards",
     "author.email": "shadowapex@gmail.com",
-    "archive.url": "https://github.com/ShadowBlip/OpenGamepadUI-steam/releases/download/v1.0.1/steam.zip",
-    "archive.sha256": "04053c2718f3322a1181e8d4617709cecbdab06d3ed4cbcce4cb4e820e08705a"
+    "archive.url": "https://github.com/ShadowBlip/OpenGamepadUI-steam/releases/download/v1.0.2/steam.zip",
+    "archive.sha256": "cbfeaaad64d8d6d8e876c95928fa4d2f061d6fdf8eb420ce834d5c53ea873fe6"
   },
   "flathub": {
     "plugin.id": "flathub",
