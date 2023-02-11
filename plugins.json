@@ -38,7 +38,7 @@
   "steamgriddb": {
     "plugin.id": "steamgriddb",
     "plugin.name": "SteamGridDB",
-    "plugin.version": "1.0.1",
+    "plugin.version": "1.0.2",
     "plugin.min-api-version": "1.0.0",
     "plugin.link": "https://github.com/ShadowBlip/OpenGamepadUI-steamgriddb",
     "plugin.source": "https://github.com/ShadowBlip/OpenGamepadUI-steamgriddb",
@@ -50,7 +50,7 @@
     ],
     "author.name": "William Edwards",
     "author.email": "shadowapex@gmail.com",
-    "archive.url": "https://github.com/ShadowBlip/OpenGamepadUI-steamgriddb/releases/download/v1.0.1/steamgriddb.zip",
-    "archive.sha256": "f3426075ab0311cb00bd6095d707dbadb4e73009060a17ef93b94a78753db43d"
+    "archive.url": "https://github.com/ShadowBlip/OpenGamepadUI-steamgriddb/releases/download/v1.0.2/steamgriddb.zip",
+    "archive.sha256": "c6f3d13b70436e97c93d457663c2fa631e8463fd00f38b1f27745a39fc0524ea"
   }
 }
