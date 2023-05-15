@@ -28,7 +28,7 @@
     "plugin.description": "FlatHub store & library implementation for OpenGamepadUI",
     "store.tags": ["flathub", "library", "store"],
     "store.images": [
-      "https://raw.githubusercontent.com/ShadowBlip/OpenGamepadUI-flathub/main/docs/screen01.png"
+      "https://raw.githubusercontent.com/ShadowBlip/OpenGamepadUI-flathub/main/docs/icon.png"
     ],
     "author.name": "William Edwards",
     "author.email": "shadowapex@gmail.com",
@@ -46,7 +46,7 @@
     "plugin.description": "SteamGridDB boxart provider implementation for OpenGamepadUI",
     "store.tags": ["boxart"],
     "store.images": [
-      "https://raw.githubusercontent.com/ShadowBlip/OpenGamepadUI-steamgriddb/main/docs/screen01.png"
+      "https://raw.githubusercontent.com/ShadowBlip/OpenGamepadUI-steamgriddb/main/docs/icon.png"
     ],
     "author.name": "William Edwards",
     "author.email": "shadowapex@gmail.com",
@@ -64,7 +64,7 @@
     "plugin.description": "Video capture plugin for OpenGamepadUI",
     "store.tags": ["video", "capture", "recapture"],
     "store.images": [
-      "https://raw.githubusercontent.com/ShadowBlip/OpenGamepadUI-recapture/main/docs/screen01.png"
+      "https://raw.githubusercontent.com/ShadowBlip/OpenGamepadUI-recapture/main/docs/icon.png"
     ],
     "author.name": "William Edwards",
     "author.email": "shadowapex@gmail.com",
