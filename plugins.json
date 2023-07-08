@@ -2,7 +2,7 @@
   "steam": {
     "plugin.id": "steam",
     "plugin.name": "Steam",
-    "plugin.version": "1.0.8",
+    "plugin.version": "1.0.9",
     "plugin.min-api-version": "1.0.0",
     "plugin.link": "https://github.com/ShadowBlip/OpenGamepadUI-steam",
     "plugin.source": "https://github.com/ShadowBlip/OpenGamepadUI-steam",
@@ -14,8 +14,8 @@
     ],
     "author.name": "William Edwards",
     "author.email": "shadowapex@gmail.com",
-    "archive.url": "https://github.com/ShadowBlip/OpenGamepadUI-steam/releases/download/v1.0.8/steam.zip",
-    "archive.sha256": "56402511e708124f1bb72f8708ea3680c8e70ae8d9af29251fecc1b5657737a9"
+    "archive.url": "https://github.com/ShadowBlip/OpenGamepadUI-steam/releases/download/v1.0.9/steam.zip",
+    "archive.sha256": "bc70ced74f2ea51213755701d14df980ad5caceb94dd3f980c3f8b274ba9f805"
   },
   "flathub": {
     "plugin.id": "flathub",
