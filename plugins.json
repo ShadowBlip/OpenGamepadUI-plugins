@@ -8,7 +8,11 @@
     "plugin.source": "https://github.com/ShadowBlip/OpenGamepadUI-steam",
     "plugin.summary": "Steam library for OpenGamepadUI",
     "plugin.description": "Steam library implementation for OpenGamepadUI",
-    "store.tags": ["steam", "library", "boxart"],
+    "store.tags": [
+      "steam",
+      "library",
+      "boxart"
+    ],
     "store.images": [
       "https://raw.githubusercontent.com/ShadowBlip/OpenGamepadUI-steam/main/docs/icon.png"
     ],
@@ -26,7 +30,11 @@
     "plugin.source": "https://github.com/ShadowBlip/OpenGamepadUI-flathub",
     "plugin.summary": "FlatHub store & library for OpenGamepadUI",
     "plugin.description": "FlatHub store & library implementation for OpenGamepadUI",
-    "store.tags": ["flathub", "library", "store"],
+    "store.tags": [
+      "flathub",
+      "library",
+      "store"
+    ],
     "store.images": [
       "https://raw.githubusercontent.com/ShadowBlip/OpenGamepadUI-flathub/main/docs/icon.png"
     ],
@@ -44,7 +52,9 @@
     "plugin.source": "https://github.com/ShadowBlip/OpenGamepadUI-steamgriddb",
     "plugin.summary": "SteamGridDB boxart provider",
     "plugin.description": "SteamGridDB boxart provider implementation for OpenGamepadUI",
-    "store.tags": ["boxart"],
+    "store.tags": [
+      "boxart"
+    ],
     "store.images": [
       "https://raw.githubusercontent.com/ShadowBlip/OpenGamepadUI-steamgriddb/main/docs/icon.png"
     ],
@@ -62,7 +72,11 @@
     "plugin.source": "https://github.com/ShadowBlip/OpenGamepadUI-recapture",
     "plugin.summary": "Video capture plugin",
     "plugin.description": "Video capture plugin for OpenGamepadUI",
-    "store.tags": ["video", "capture", "recapture"],
+    "store.tags": [
+      "video",
+      "capture",
+      "recapture"
+    ],
     "store.images": [
       "https://raw.githubusercontent.com/ShadowBlip/OpenGamepadUI-recapture/main/docs/icon.png"
     ],
@@ -80,7 +94,11 @@
     "plugin.source": "https://github.com/ShadowBlip/OpenGamepadUI-yuzu",
     "plugin.summary": "Yuzu emulator library",
     "plugin.description": "Yuzu library provider for OpenGamepadUI",
-    "store.tags": ["library", "yuzu", "switch"],
+    "store.tags": [
+      "library",
+      "yuzu",
+      "switch"
+    ],
     "store.images": [
       "https://raw.githubusercontent.com/ShadowBlip/OpenGamepadUI-yuzu/main/docs/icon.png"
     ],
@@ -92,19 +110,22 @@
   "lutris": {
     "plugin.id": "lutris",
     "plugin.name": "Lutris",
-    "plugin.version": "1.0.0",
+    "plugin.version": "1.0.1",
     "plugin.min-api-version": "1.0.0",
     "plugin.link": "https://github.com/ShadowBlip/OpenGamepadUI-lutris",
     "plugin.source": "https://github.com/ShadowBlip/OpenGamepadUI-lutris",
     "plugin.summary": "Lutris library support",
     "plugin.description": "Lutris library provider for OpenGamepadUI",
-    "store.tags": ["library", "lutris"],
+    "store.tags": [
+      "library",
+      "lutris"
+    ],
     "store.images": [
       "https://raw.githubusercontent.com/ShadowBlip/OpenGamepadUI-lutris/main/docs/icon.png"
     ],
     "author.name": "William Edwards",
     "author.email": "shadowapex@gmail.com",
-    "archive.url": "https://github.com/ShadowBlip/OpenGamepadUI-lutris/releases/download/v1.0.0/lutris.zip",
-    "archive.sha256": "89a1fc78d3a13087a3f35796c67f6b69ff15dd3c8434ba5033949f438ed596b6"
+    "archive.url": "https://github.com/ShadowBlip/OpenGamepadUI-lutris/releases/download/v1.0.1/lutris.zip",
+    "archive.sha256": "b2bb4e8eba92a59facce768fc7698204caf00ef4b298b5ac704a1cb08442723b"
   }
 }
