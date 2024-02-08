@@ -110,7 +110,7 @@
   "lutris": {
     "plugin.id": "lutris",
     "plugin.name": "Lutris",
-    "plugin.version": "1.0.1",
+    "plugin.version": "1.0.2",
     "plugin.min-api-version": "1.0.0",
     "plugin.link": "https://github.com/ShadowBlip/OpenGamepadUI-lutris",
     "plugin.source": "https://github.com/ShadowBlip/OpenGamepadUI-lutris",
@@ -125,7 +125,7 @@
     ],
     "author.name": "William Edwards",
     "author.email": "shadowapex@gmail.com",
-    "archive.url": "https://github.com/ShadowBlip/OpenGamepadUI-lutris/releases/download/v1.0.1/lutris.zip",
-    "archive.sha256": "b2bb4e8eba92a59facce768fc7698204caf00ef4b298b5ac704a1cb08442723b"
+    "archive.url": "https://github.com/ShadowBlip/OpenGamepadUI-lutris/releases/download/v1.0.2/lutris.zip",
+    "archive.sha256": "80c0559dff7c146fda20f9bc68ddd87d2bb8614948a9d8298b66b43dd7eae665"
   }
 }
