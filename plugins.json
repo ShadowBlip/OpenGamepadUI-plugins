@@ -85,28 +85,6 @@
     "archive.url": "https://github.com/ShadowBlip/OpenGamepadUI-recapture/releases/download/v1.0.0/recapture.zip",
     "archive.sha256": "97735b760869a7c0e203897148a40516e0344a4093ddf2e44127cc14a1035995"
   },
-  "yuzu": {
-    "plugin.id": "yuzu",
-    "plugin.name": "Yuzu",
-    "plugin.version": "1.0.0",
-    "plugin.min-api-version": "1.0.0",
-    "plugin.link": "https://github.com/ShadowBlip/OpenGamepadUI-yuzu",
-    "plugin.source": "https://github.com/ShadowBlip/OpenGamepadUI-yuzu",
-    "plugin.summary": "Yuzu emulator library",
-    "plugin.description": "Yuzu library provider for OpenGamepadUI",
-    "store.tags": [
-      "library",
-      "yuzu",
-      "switch"
-    ],
-    "store.images": [
-      "https://raw.githubusercontent.com/ShadowBlip/OpenGamepadUI-yuzu/main/docs/icon.png"
-    ],
-    "author.name": "William Edwards",
-    "author.email": "shadowapex@gmail.com",
-    "archive.url": "https://github.com/ShadowBlip/OpenGamepadUI-yuzu/releases/download/v1.0.0/yuzu.zip",
-    "archive.sha256": "98560225c6b9c8aa975c1fafa309c05c6df082cc81d908f5a1b012a3f1fea0dd"
-  },
   "lutris": {
     "plugin.id": "lutris",
     "plugin.name": "Lutris",
