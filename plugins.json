@@ -2,8 +2,8 @@
   "steam": {
     "plugin.id": "steam",
     "plugin.name": "Steam",
-    "plugin.version": "1.2.0",
-    "plugin.min-api-version": "1.0.0",
+    "plugin.version": "2.0.0",
+    "plugin.min-api-version": "2.0.0",
     "plugin.link": "https://github.com/ShadowBlip/OpenGamepadUI-steam",
     "plugin.source": "https://github.com/ShadowBlip/OpenGamepadUI-steam",
     "plugin.summary": "Steam library for OpenGamepadUI",
@@ -18,14 +18,22 @@
     ],
     "author.name": "William Edwards",
     "author.email": "shadowapex@gmail.com",
-    "archive.url": "https://github.com/ShadowBlip/OpenGamepadUI-steam/releases/download/v1.2.0/steam.zip",
-    "archive.sha256": "8e6b9774ede0fc89aad64b4a0590e1de097faf96107491529c0d4d8cf91b0c3f"
+    "archive.url": "https://github.com/ShadowBlip/OpenGamepadUI-steam/releases/download/v2.0.0/steam.zip",
+    "archive.sha256": "c51cab56449fdca2a393e6cb7c5d969a54b8a8005baec8f621e10cd653e5ebc4",
+    "versions": [
+      {
+        "plugin.version": "1.2.0",
+        "plugin.min-api-version": "1.0.0",
+        "archive.url": "https://github.com/ShadowBlip/OpenGamepadUI-steam/releases/download/v1.2.0/steam.zip",
+        "archive.sha256": "8e6b9774ede0fc89aad64b4a0590e1de097faf96107491529c0d4d8cf91b0c3f"
+      }
+    ]
   },
   "flathub": {
     "plugin.id": "flathub",
     "plugin.name": "FlatHub",
-    "plugin.version": "1.0.0",
-    "plugin.min-api-version": "1.0.0",
+    "plugin.version": "2.0.0",
+    "plugin.min-api-version": "2.0.0",
     "plugin.link": "https://github.com/ShadowBlip/OpenGamepadUI-flathub",
     "plugin.source": "https://github.com/ShadowBlip/OpenGamepadUI-flathub",
     "plugin.summary": "FlatHub store & library for OpenGamepadUI",
@@ -40,14 +48,22 @@
     ],
     "author.name": "William Edwards",
     "author.email": "shadowapex@gmail.com",
-    "archive.url": "https://github.com/ShadowBlip/OpenGamepadUI-flathub/releases/download/v1.0.0/flathub.zip",
-    "archive.sha256": "e1420269a5ed3685cb06565a5a4595561dd604b9ae18adbfbe148fd6dab3f8e4"
+    "archive.url": "https://github.com/ShadowBlip/OpenGamepadUI-flathub/releases/download/v2.0.0/flathub.zip",
+    "archive.sha256": "c14f54a1636d19dbcc8105309172084ecc5bebfbb44717deb9ac173270e90608",
+    "versions": [
+      {
+        "plugin.version": "1.0.0",
+        "plugin.min-api-version": "1.0.0",
+        "archive.url": "https://github.com/ShadowBlip/OpenGamepadUI-flathub/releases/download/v1.0.0/flathub.zip",
+        "archive.sha256": "e1420269a5ed3685cb06565a5a4595561dd604b9ae18adbfbe148fd6dab3f8e4"
+      }
+    ]
   },
   "steamgriddb": {
     "plugin.id": "steamgriddb",
     "plugin.name": "SteamGridDB",
-    "plugin.version": "1.0.3",
-    "plugin.min-api-version": "1.0.0",
+    "plugin.version": "2.0.0",
+    "plugin.min-api-version": "2.0.0",
     "plugin.link": "https://github.com/ShadowBlip/OpenGamepadUI-steamgriddb",
     "plugin.source": "https://github.com/ShadowBlip/OpenGamepadUI-steamgriddb",
     "plugin.summary": "SteamGridDB boxart provider",
@@ -60,8 +76,16 @@
     ],
     "author.name": "William Edwards",
     "author.email": "shadowapex@gmail.com",
-    "archive.url": "https://github.com/ShadowBlip/OpenGamepadUI-steamgriddb/releases/download/v1.0.3/steamgriddb.zip",
-    "archive.sha256": "0b66bab5ff6d07206f9e3211bf9ad7d6019459bd6d40224fa4dbe21839ba343e"
+    "archive.url": "https://github.com/ShadowBlip/OpenGamepadUI-steamgriddb/releases/download/v2.0.0/steamgriddb.zip",
+    "archive.sha256": "f28f4d58629542809c35c941038024c5df58857a8a56279369729f9d841387d7",
+    "versions": [
+      {
+        "plugin.version": "1.0.3",
+        "plugin.min-api-version": "1.0.0",
+        "archive.url": "https://github.com/ShadowBlip/OpenGamepadUI-steamgriddb/releases/download/v1.0.3/steamgriddb.zip",
+        "archive.sha256": "0b66bab5ff6d07206f9e3211bf9ad7d6019459bd6d40224fa4dbe21839ba343e"
+      }
+    ]
   },
   "recapture": {
     "plugin.id": "recapture",
@@ -88,8 +112,8 @@
   "lutris": {
     "plugin.id": "lutris",
     "plugin.name": "Lutris",
-    "plugin.version": "1.0.4",
-    "plugin.min-api-version": "1.0.0",
+    "plugin.version": "2.0.0",
+    "plugin.min-api-version": "2.0.0",
     "plugin.link": "https://github.com/ShadowBlip/OpenGamepadUI-lutris",
     "plugin.source": "https://github.com/ShadowBlip/OpenGamepadUI-lutris",
     "plugin.summary": "Lutris library support",
@@ -103,9 +127,15 @@
     ],
     "author.name": "William Edwards",
     "author.email": "shadowapex@gmail.com",
-    "archive.url": "https://github.com/ShadowBlip/OpenGamepadUI-lutris/releases/download/v1.0.4/lutris.zip",
-    "archive.sha256": "8d081f0d5e842d21ff5de04f7449fffcff9b92776ecb4f4cf583b8ec42efa650",
+    "archive.url": "https://github.com/ShadowBlip/OpenGamepadUI-lutris/releases/download/v2.0.0/lutris.zip",
+    "archive.sha256": "4958bd2ac4ca8524afb695cfc72d994a9749545b5addf3aafa66f5d8646c9465",
     "versions": [
+      {
+        "plugin.version": "1.0.4",
+        "plugin.min-api-version": "1.0.0",
+        "archive.url": "https://github.com/ShadowBlip/OpenGamepadUI-lutris/releases/download/v1.0.4/lutris.zip",
+        "archive.sha256": "8d081f0d5e842d21ff5de04f7449fffcff9b92776ecb4f4cf583b8ec42efa650"
+      },
       {
         "plugin.version": "1.0.3",
         "plugin.min-api-version": "1.0.0",
@@ -117,8 +147,8 @@
   "sunshine": {
     "plugin.id": "sunshine",
     "plugin.name": "Sunshine",
-    "plugin.version": "1.0.0",
-    "plugin.min-api-version": "1.1.0",
+    "plugin.version": "2.0.0",
+    "plugin.min-api-version": "2.0.0",
     "plugin.link": "https://github.com/ShadowBlip/OpenGamepadUI-sunshine",
     "plugin.source": "https://github.com/ShadowBlip/OpenGamepadUI-sunshine",
     "plugin.summary": "Sunshine streaming",
@@ -131,8 +161,15 @@
     ],
     "author.name": "William Edwards",
     "author.email": "shadowapex@gmail.com",
-    "archive.url": "https://github.com/ShadowBlip/OpenGamepadUI-sunshine/releases/download/v1.0.0/sunshine.zip",
-    "archive.sha256": "46e5d950f9b16ca7b816ee1d946d17cbc1505c9bc323c43ccf38cd7d22b57b3c",
-    "versions": []
+    "archive.url": "https://github.com/ShadowBlip/OpenGamepadUI-sunshine/releases/download/v2.0.0/sunshine.zip",
+    "archive.sha256": "8d9a66e789b4f0d8f06bbcc786d28b78c4cd92c47af98584eefab80f7ca5b391",
+    "versions": [
+      {
+        "plugin.version": "1.0.0",
+        "plugin.min-api-version": "1.1.0",
+        "archive.url": "https://github.com/ShadowBlip/OpenGamepadUI-sunshine/releases/download/v1.0.0/sunshine.zip",
+        "archive.sha256": "46e5d950f9b16ca7b816ee1d946d17cbc1505c9bc323c43ccf38cd7d22b57b3c"
+      }
+    ]
   }
 }
