@@ -171,5 +171,25 @@
         "archive.sha256": "46e5d950f9b16ca7b816ee1d946d17cbc1505c9bc323c43ccf38cd7d22b57b3c"
       }
     ]
+  },
+  "ayaneo-modules": {
+    "plugin.id": "ayaneo-modules",
+    "plugin.name": "AYANEO Magic Modules",
+    "plugin.version": "1.0.0",
+    "plugin.min-api-version": "2.0.0",
+    "plugin.link": "https://github.com/matmartinez/OpenGamepadUI-ayaneo-modules",
+    "plugin.source": "https://github.com/matmartinez/OpenGamepadUI-ayaneo-modules",
+    "plugin.summary": "AYANEO 3 Magic Modules control",
+    "plugin.description": "Pop out and identify the AYANEO 3 detachable controller modules (Magic Modules). Requires the hid-ayaneo and ayaneo-ec kernel drivers.",
+    "store.tags": [
+      "quick-bar",
+      "ayaneo",
+      "hardware"
+    ],
+    "store.images": [],
+    "author.name": "Matías Martínez",
+    "author.email": "hello@matias.me",
+    "archive.url": "https://github.com/matmartinez/OpenGamepadUI-ayaneo-modules/releases/download/v1.0.0/ayaneo-modules.zip",
+    "archive.sha256": "0f30e9c2e8e025b7c6af93985cb8e74d6a0d8e766830952535360e77be0a5227"
   }
 }
