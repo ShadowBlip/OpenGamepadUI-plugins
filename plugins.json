@@ -186,7 +186,9 @@
       "ayaneo",
       "hardware"
     ],
-    "store.images": [],
+    "store.images": [
+      "https://raw.githubusercontent.com/matmartinez/OpenGamepadUI-ayaneo-modules/main/docs/icon.png"
+    ],
     "author.name": "Matías Martínez",
     "author.email": "hello@matias.me",
     "archive.url": "https://github.com/matmartinez/OpenGamepadUI-ayaneo-modules/releases/download/v1.0.1/ayaneo-modules.zip",
