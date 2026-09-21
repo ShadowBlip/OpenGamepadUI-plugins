@@ -191,5 +191,29 @@
     "author.email": "hello@matias.me",
     "archive.url": "https://github.com/matmartinez/OpenGamepadUI-ayaneo-modules/releases/download/v1.0.0/ayaneo-modules.zip",
     "archive.sha256": "0f30e9c2e8e025b7c6af93985cb8e74d6a0d8e766830952535360e77be0a5227"
+  },
+
+  "ayaneo-fan-control": {
+    "plugin.id": "ayaneo-fan-control",
+    "plugin.name": "Ayaneo 3 Fan Controls",
+    "plugin.version": "0.5.1",
+    "plugin.min-api-version": "2.0.0",
+    "plugin.link": "https://github.com/sknowledge1/Ayaneo-3-Fan-Controls",
+    "plugin.source": "https://github.com/sknowledge1/Ayaneo-3-Fan-Controls",
+    "plugin.summary": "Native fan controls for all AYANEO 3 models",
+    "plugin.description": "Native OGUI fan controls for all AYANEO 3 CPU variants. Requires the separately installed ay3-fancontrol service from the linked source repository.",
+    "store.tags": [
+      "quick-bar",
+      "hardware",
+      "fan",
+      "ayaneo"
+    ],
+    "store.images": [
+      "https://raw.githubusercontent.com/sknowledge1/Ayaneo-3-Fan-Controls/main/docs/fan-controls.png"
+    ],
+    "author.name": "Ayaneo 3 Fan Controls contributors",
+    "archive.url": "https://github.com/sknowledge1/Ayaneo-3-Fan-Controls/releases/download/v0.5.1/ayaneo-fan-control-0.5.1.zip",
+    "archive.sha256": "ec77472b97f816487bbb9289976890f823669e025e653bfcb01a24b7b04c779e"
   }
+
 }
