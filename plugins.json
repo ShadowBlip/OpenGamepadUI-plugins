@@ -175,7 +175,7 @@
   "ayaneo-modules": {
     "plugin.id": "ayaneo-modules",
     "plugin.name": "AYANEO Magic Modules",
-    "plugin.version": "1.0.0",
+    "plugin.version": "1.0.1",
     "plugin.min-api-version": "2.0.0",
     "plugin.link": "https://github.com/matmartinez/OpenGamepadUI-ayaneo-modules",
     "plugin.source": "https://github.com/matmartinez/OpenGamepadUI-ayaneo-modules",
@@ -189,7 +189,7 @@
     "store.images": [],
     "author.name": "Matías Martínez",
     "author.email": "hello@matias.me",
-    "archive.url": "https://github.com/matmartinez/OpenGamepadUI-ayaneo-modules/releases/download/v1.0.0/ayaneo-modules.zip",
-    "archive.sha256": "0f30e9c2e8e025b7c6af93985cb8e74d6a0d8e766830952535360e77be0a5227"
+    "archive.url": "https://github.com/matmartinez/OpenGamepadUI-ayaneo-modules/releases/download/v1.0.1/ayaneo-modules.zip",
+    "archive.sha256": "2f9048aa47556598f7621f14b7e704f8cd0417a7fff48a96d5eca190a7784698"
   }
 }
